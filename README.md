@@ -13,3 +13,8 @@ I recorded the data by driving smoothly around the track1 and also drove the car
 5. As the top and bottom portion of the images are noise for the model 55 pixels from the top and 25 pixels are removed.
 6. Images are resized to 128 x 128 pixels to reduce the time taken by model to execute.
 
+Here is the sample image and final distribution of angles.
+
+![download](images/download.png)
+
+![download](images/download.png)
