@@ -17,4 +17,4 @@ Here is the sample image and final distribution of angles.
 
 ![download](images/download.png)
 
-![download](images/download.png)
+![angles](images/angles.png)
